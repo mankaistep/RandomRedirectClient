@@ -1,0 +1,6 @@
+name: RandomRedirect
+version: 1.0
+main: manaki.randomredirect.client.RandomRedirect
+commands:
+  rtp:
+    description: Redirect to other servers (configured in Bungee)

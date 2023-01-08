@@ -1,6 +1,6 @@
 package manaki.randomredirect.client;
 
-import com.google.common.collect.RangeMap;
+import manaki.randomredirect.client.command.PluginCommand;
 import org.bukkit.event.EventHandler;
 import org.bukkit.plugin.java.JavaPlugin;
 

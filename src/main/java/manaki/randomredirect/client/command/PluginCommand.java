@@ -1,6 +1,7 @@
-package manaki.randomredirect.client;
+package manaki.randomredirect.client.command;
 
-import org.bukkit.Bukkit;
+import manaki.randomredirect.client.RandomRedirect;
+import manaki.randomredirect.client.request.Request;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

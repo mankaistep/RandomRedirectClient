@@ -1,4 +1,4 @@
-package manaki.randomredirect.client;
+package manaki.randomredirect.client.request;
 
 import com.google.gson.GsonBuilder;
 
